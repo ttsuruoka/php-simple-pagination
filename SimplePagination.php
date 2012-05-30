@@ -7,6 +7,7 @@
  *
  * @package SimplePagination
  * @author  tatsuya.tsuruoka@gmail.com
+ * @url     https://github.com/ttsuruoka/php-simple-pagination
  */
 class SimplePagination
 {
