@@ -11,7 +11,4 @@
   <testsuite name="Test Suite">
     <directory>./tests</directory>
   </testsuite>
-  <php>
-    <ini name="date.timezone" value="utc" />
-  </php>
 </phpunit>
